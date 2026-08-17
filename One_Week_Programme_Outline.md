@@ -8,7 +8,7 @@ The resources assume five structured bootcamp days between 18/08/2026 and 26/08/
 
 The bootcamp uses a hybrid teaching approach: every concept is followed by a practical activity. Students learn agentic AI as a controlled software engineering workflow: define the goal, design state, connect tools, retrieve grounded knowledge, pause for human review, test failure cases, and present evidence.
 
-## Day 1 — Tuesday 18/08/2026: Agentic AI foundations and provider setup
+## Day 1 - Tuesday 18/08/2026: Agentic AI foundations and provider setup
 
 **Theme:** From chatbot to controlled agent.
 
@@ -18,7 +18,7 @@ The bootcamp uses a hybrid teaching approach: every concept is followed by a pra
 
 **Output:** a working provider route and a first grounded answer from at least one available model.
 
-## Day 2 — Wednesday 19/08/2026: LangGraph, tools, state and routing
+## Day 2 - Wednesday 19/08/2026: LangGraph, tools, state and routing
 
 **Theme:** Build an agent as a graph, not a prompt.
 
@@ -28,7 +28,7 @@ The bootcamp uses a hybrid teaching approach: every concept is followed by a pra
 
 **Output:** a working graph-based prototype that can answer a realistic operations-support query and identify when review is required.
 
-## Day 3 — Thursday 20/08/2026: Amazon UK fulfilment centre industrial visit
+## Day 3 - Thursday 20/08/2026: Amazon UK fulfilment centre industrial visit
 
 **Theme:** Observe real operations before designing agents.
 
@@ -38,7 +38,7 @@ The bootcamp uses a hybrid teaching approach: every concept is followed by a pra
 
 **Output:** structured observation notes ready for RAG, process mapping and capstone ideation.
 
-## Day 4 — Friday 21/08/2026: RAG, human-in-the-loop and responsible automation
+## Day 4 - Friday 21/08/2026: RAG, human-in-the-loop and responsible automation
 
 **Theme:** Ground the agent and control its actions.
 
@@ -48,7 +48,7 @@ The bootcamp uses a hybrid teaching approach: every concept is followed by a pra
 
 **Output:** a grounded assistant that cites local evidence and pauses for review on safety, performance or escalation requests.
 
-## Day 5 — Wednesday 26/08/2026: Capstone agent build, evaluation and demos
+## Day 5 - Wednesday 26/08/2026: Capstone agent build, evaluation and demos
 
 **Theme:** Present a realistic, tested, responsible agent.
 
@@ -58,6 +58,6 @@ The bootcamp uses a hybrid teaching approach: every concept is followed by a pra
 
 **Output:** team demonstration, evaluation sheet, human-review rationale and next-step improvement plan.
 
-## Optional consolidation clinics — Monday 24/08/2026 and Tuesday 25/08/2026
+## Optional consolidation clinics - Monday 24/08/2026 and Tuesday 25/08/2026
 
 Use these as drop-in studio time, independent build time, coding clinics, or reflective write-up sessions if the timetable allows.

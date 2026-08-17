@@ -1,4 +1,4 @@
-# Agentic AI Bootcamp Resources — Reliable Providers v3
+# Agentic AI Bootcamp Resources - Reliable Providers v3
 
 This edition makes Groq and Ollama first-class, observable providers and removes the silent-failure behaviour found in the earlier pack.
 

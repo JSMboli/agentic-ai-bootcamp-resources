@@ -19,7 +19,7 @@ from groq import Groq
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 ```
 
-## Option A — Groq (recommended hosted path)
+## Option A - Groq (recommended hosted path)
 
 Official pages:
 - Account/console: https://console.groq.com/
@@ -46,7 +46,7 @@ GROQ_REASONING_EFFORT=none
 
 **Why `hidden`?** It keeps the model's private reasoning out of the main teaching answer. Students see the final answer plus operational metadata (provider, model, latency, token usage and request ID where available).
 
-## Option B — Ollama (local/no API cost)
+## Option B - Ollama (local/no API cost)
 
 Official pages:
 - Download/install: https://ollama.com/download
@@ -75,7 +75,7 @@ The router discovers the server's actual model list. It does not assume a model 
 
 For classroom responsiveness the notebooks use bounded output, keep the model loaded between calls, and disable extended thinking by default. A 0.8B/1B model is useful for demonstrating local inference, but native multi-tool selection may be less reliable than with a stronger hosted model; that is why the controlled LangGraph workflow remains available.
 
-## Option C — OpenAI (optional extension)
+## Option C - OpenAI (optional extension)
 
 Official pages:
 - Developer quickstart: https://developers.openai.com/api/docs/quickstart
@@ -91,7 +91,7 @@ OPENAI_MODEL=gpt-5.6-luna
 
 The provider helper uses the official OpenAI Python SDK and the Responses API for this optional route. `gpt-5.6-luna` is chosen as the cost-sensitive member of the current GPT-5.6 family for classroom experimentation; students should always re-check the model catalogue before a later delivery of the course.
 
-## Option D — Gemini (optional extension)
+## Option D - Gemini (optional extension)
 
 Official pages:
 - API-key guide: https://ai.google.dev/gemini-api/docs/api-key
@@ -111,7 +111,7 @@ GEMINI_MODEL=gemini-3.7-flash
 
 `gemini-3.7-flash` is the current Flash model listed in Google's August 2026 documentation. Provider catalogues change, so verify the model page when reusing these resources later.
 
-## Option E — Anthropic (optional extension)
+## Option E - Anthropic (optional extension)
 
 Official pages:
 - Get started: https://docs.anthropic.com/en/docs/get-started
@@ -130,7 +130,7 @@ ANTHROPIC_MODEL=claude-sonnet-5
 
 `claude-sonnet-5` is used as the current speed/intelligence balance in this bootcamp edition.
 
-## Option F — DeepSeek (optional extension)
+## Option F - DeepSeek (optional extension)
 
 Official pages:
 - API documentation: https://api-docs.deepseek.com/

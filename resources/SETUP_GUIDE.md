@@ -1,4 +1,4 @@
-# Agentic AI Bootcamp — Reliable Setup Guide
+# Agentic AI Bootcamp - Reliable Setup Guide
 
 **Edition date:** 17 August 2026
 
@@ -70,7 +70,7 @@ Edit only `resources/.env`. The provider module searches:
 
 The first existing files are loaded without overwriting variables already defined in the operating-system environment.
 
-## 4. Groq — corrected diagnostic path
+## 4. Groq - corrected diagnostic path
 
 The executed notebook you supplied demonstrated an important distinction:
 
@@ -95,7 +95,7 @@ GROQ_REASONING_FORMAT=hidden
 
 The current pack no longer includes the retired Groq fallbacks `llama-3.1-8b-instant` or `llama-3.3-70b-versatile`. Current fallbacks are `qwen/qwen3.6-27b`, `openai/gpt-oss-20b`, and `openai/gpt-oss-120b`.
 
-## 5. Ollama — local route
+## 5. Ollama - local route
 
 Verify from the same machine that will run Jupyter:
 

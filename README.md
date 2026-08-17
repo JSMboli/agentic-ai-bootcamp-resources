@@ -1,4 +1,4 @@
-# Agentic AI Bootcamp — Reliable Providers v3
+# Agentic AI Bootcamp - Reliable Providers v3
 
 **Delivery:** 18–26 August 2026 (five teaching days; Thursday 20 August is the Amazon fulfilment-centre industrial visit).
 
@@ -15,10 +15,10 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 ## Important files
 
 
-- `resources/PROVIDER_TROUBLESHOOTING.md` — Groq/Ollama and kernel/path troubleshooting matrix.
-- `resources/PROVIDER_ACCOUNT_SETUP.md` — account/API-key instructions for Groq, Ollama, OpenAI, Gemini, Anthropic and DeepSeek.
-- `One_Week_Programme_Outline.md` — teaching programme.
-- `slides/` — expanded slide decks.
+- `resources/PROVIDER_TROUBLESHOOTING.md` - Groq/Ollama and kernel/path troubleshooting matrix.
+- `resources/PROVIDER_ACCOUNT_SETUP.md` - account/API-key instructions for Groq, Ollama, OpenAI, Gemini, Anthropic and DeepSeek.
+- `One_Week_Programme_Outline.md` - teaching programme.
+- `slides/` - expanded slide decks.
 
 ## Security
 
