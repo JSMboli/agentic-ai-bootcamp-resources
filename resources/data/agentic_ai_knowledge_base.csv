@@ -1,0 +1,11 @@
+topic,source_type,content
+agentic_ai,teaching_note,"An AI agent is a software system that uses an LLM as a reasoning component, keeps task state, calls tools, observes results, and iterates towards a goal. Good agents are constrained, observable, and evaluated."
+workflow_vs_agent,teaching_note,"Use a workflow when the process is predictable and steps are fixed. Use an agent when the next step depends on observations, tool outputs, or ambiguous user intent. In production, combine workflow boundaries with agent flexibility."
+langgraph,technical_note,"LangGraph represents applications as stateful graphs. Nodes perform work, edges route control, checkpointers persist state, and interrupts support human-in-the-loop approval or correction."
+human_in_loop,responsible_ai,"Human-in-the-loop is used when an action may be risky, irreversible, sensitive, or uncertain. The agent should pause, present evidence, and request approve, edit, or reject decisions."
+ollama,accessibility,"Ollama enables students to run small open models locally without paid API keys. It is useful for offline practice, privacy-aware experiments, and teaching agent structure without exposing secrets."
+groq,provider_note,Groq provides an ultra-fast API platform and is largely OpenAI-compatible for chat completions. It is useful for latency-sensitive demos and gives students another provider option.
+fulfilment_centre,domain_note,"A fulfilment centre combines inbound receiving, stowing, picking, packing, shipping, inventory control, quality assurance, safety management, forecasting, and human-robot collaboration."
+amazon_visit,learning_bridge,"During the Amazon fulfilment centre visit, students should observe workflows, data capture points, automation boundaries, exception handling, safety controls, and potential human-in-the-loop decision points."
+safety,risk_note,"Agentic systems can fail through prompt injection, unsafe tool use, hallucinated facts, privacy leakage, unapproved actions, brittle routing, poor recovery from tool failure, and unclear accountability."
+evaluation,testing_note,"Evaluate agents using representative tasks, edge cases, failure cases, tool-call correctness, groundedness, clarity, safety, latency, cost, and human-review burden."

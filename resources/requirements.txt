@@ -1,0 +1,28 @@
+# Core notebook/runtime
+python-dotenv
+pandas
+numpy
+requests
+nbformat
+scikit-learn
+matplotlib
+jupyter
+openai
+tqdm
+
+# Agent orchestration
+langgraph
+langchain
+langchain-core
+
+# First-class providers
+groq
+ollama
+langchain-groq
+langchain-ollama
+
+# Optional provider integrations for extension exercises
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-deepseek
