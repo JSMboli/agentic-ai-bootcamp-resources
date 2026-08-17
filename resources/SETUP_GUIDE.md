@@ -104,7 +104,7 @@ ollama list
 curl http://127.0.0.1:11434/api/tags
 ```
 
-The lecturer machine used for this pack reported:
+My machine used for this pack reported:
 
 ```text
 qwen3.5:0.8b

@@ -18,7 +18,7 @@
 | `pd is not defined` immediately after Restart/Run All | Old Day 0 relied on previous kernel state | Fixed in v3; imports happen before `pd` is used |
 | RAG cell displays a blank answer | Old local inference returned empty final content | Fixed by bounded local generation + thinking disabled + explicit empty-output error |
 | Notebook imports fail although Terminal install worked | Wrong Jupyter kernel | Run `sys.executable`, then install with `%pip` in that kernel or select the `Agentic AI Bootcamp` kernel |
-| Paths point to a lecturer's OneDrive/Mac directory | Notebook was previously executed on another machine | v3 dynamically locates `resources/`; no user-specific path is hard-coded |
+| Paths point to a  directory | Notebook was previously executed on another machine | v3 dynamically locates `resources/`; no user-specific path is hard-coded |
 | Provider output is actually `mimic` | No live provider succeeded on automatic routing | Inspect the metadata table; explicit provider calls never silently become mimic |
 
 ## Groq 1010 specifically

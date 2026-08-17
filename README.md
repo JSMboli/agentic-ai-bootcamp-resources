@@ -14,7 +14,7 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 
 ## Important files
 
-- `resources/AUDIT_REPORT_v3.md` — cell-by-cell audit of the executed notebooks supplied by the lecturer.
+
 - `resources/PROVIDER_TROUBLESHOOTING.md` — Groq/Ollama and kernel/path troubleshooting matrix.
 - `resources/PROVIDER_ACCOUNT_SETUP.md` — account/API-key instructions for Groq, Ollama, OpenAI, Gemini, Anthropic and DeepSeek.
 - `One_Week_Programme_Outline.md` — teaching programme.
