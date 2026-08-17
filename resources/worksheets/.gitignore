@@ -1,0 +1,29 @@
+# Sensitive data and environment variables
+.env
+.env.*
+*.env
+credentials.json
+secrets.json
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints and history
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python environment and compilation
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
