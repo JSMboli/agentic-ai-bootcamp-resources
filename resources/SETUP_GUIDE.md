@@ -101,7 +101,7 @@ Verify from the same machine that will run Jupyter:
 
 ```bash
 ollama list
-curl http://127.0.0.1:11434/api/tags
+
 ```
 
 My machine used for this pack reported:
@@ -116,7 +116,7 @@ llama3.2:latest
 Recommended starting configuration:
 
 ```text
-OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_BASE_URL=
 OLLAMA_MODEL=qwen3.5:0.8b
 OLLAMA_THINK=false
 OLLAMA_KEEP_ALIVE=15m
