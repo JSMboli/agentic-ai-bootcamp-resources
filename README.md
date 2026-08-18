@@ -1,5 +1,5 @@
 # Agentic AI Bootcamp - Reliable Providers v3
-
+**If you want to see the publicfacing page for guidance, then go to https://jsmboli.github.io/agentic-ai-bootcamp/**
 **Delivery:** 18–26 August 2026 (five teaching days; Thursday 20 August is the Amazon fulfilment-centre industrial visit).
 
 This revision rebuilds the practical layer around reliable Groq/Ollama diagnostics, observable model calls, LangGraph workflows, tools, RAG and genuine Human-in-the-Loop interrupts.
