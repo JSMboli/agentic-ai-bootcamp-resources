@@ -9,7 +9,7 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 
 1. Read `resources/PROVIDER_ACCOUNT_SETUP.md`.
 2. Follow `resources/SETUP_GUIDE.md`.
-3. Copy `resources/.env.template` to `resources/.env` and add only the keys you intend to use.
+3. Copy `resources/.env.template` to `resources/.env` and add only the keys you intend to use. (**Please treat your API-Key as super secret. No one should see it.**)
 4. Restart Jupyter, then run `resources/notebooks/Day_0_Setup_and_Provider_Check.ipynb` from the top.
 5. Continue Day 1 through Day 5 in order.
 
