@@ -2,20 +2,24 @@
 from __future__ import annotations
 import csv, json, math, os
 from pathlib import Path
+# from datetime import datetime
+import datetime
 from typing import Dict, List, Any
 
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 
 
 def calculator(expression: str) -> str:
+    # timestamp = datetime.now().isoformat(timespec="seconds")
     """Evaluate simple arithmetic only. Deliberately blocks names, imports and attributes."""
     allowed = set("0123456789+-*/(). %")
+    timestamp = datetime.datetime.now()
     if any(ch not in allowed for ch in expression):
-        return "Blocked: calculator accepts only simple arithmetic characters."
+        return f"Blocked at {timestamp}: calculator accepts only simple arithmetic characters."
     try:
-        return str(eval(expression, {"__builtins__": {}}, {}))
+        return str(eval(expression, {"__builtins__": {}}, {})) + f": {timestamp}"
     except Exception as exc:
-        return f"Calculator error: {exc}"
+        return f"{timestamp}: Calculator error: {exc}"
 
 
 def pick_rate(items_picked: float, hours: float) -> Dict[str, Any]:

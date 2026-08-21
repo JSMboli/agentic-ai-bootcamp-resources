@@ -97,6 +97,7 @@ The current pack no longer includes the retired Groq fallbacks `llama-3.1-8b-ins
 
 ## 5. Ollama - local route
 
+
 Verify from the same machine that will run Jupyter:
 
 ```bash
