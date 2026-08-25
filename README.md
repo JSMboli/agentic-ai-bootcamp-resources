@@ -24,3 +24,6 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 ## Security
 
 No live `.env`, API key, copied virtual environment or Jupyter checkpoint is distributed in this v3 package. If a credential has previously appeared in chat, notebook output or another ZIP, revoke it and create a new one.
+
+
+**Please upload your figures here https://forms.gle/ooEYR7NRa59HwQdV6**
