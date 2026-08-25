@@ -20,3 +20,5 @@ This edition makes Groq and Ollama first-class, observable providers and removes
 - All six notebooks pass code-cell compilation and fresh-kernel offline execution tests.
 
 Start with `PROVIDER_ACCOUNT_SETUP.md`, then `SETUP_GUIDE.md`, then `notebooks/Day_0_Setup_and_Provider_Check.ipynb`.
+
+**Please upload your figures here https://forms.gle/ooEYR7NRa59HwQdV6**
