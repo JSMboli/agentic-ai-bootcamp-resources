@@ -5,10 +5,14 @@
 
 This revision rebuilds the practical layer around reliable Groq/Ollama diagnostics, observable model calls, LangGraph workflows, tools, RAG and genuine Human-in-the-Loop interrupts.
 
+# Feedback
+
+*We would like to hear from you.
+>https://forms.gle/UPhKTgAr8iSzwn5E6
 
 ## Facilitators:
 
-Dr Julius Sechang Mboli - https://www.linkedin.com/in/engr-julius-sechang-mboli/
+Dr Julius Sechang Mboli (Organiser and Lead) - https://www.linkedin.com/in/engr-julius-sechang-mboli/
 
 Oyinkansola Onwuchekwa - https://www.linkedin.com/in/oyinkan-chekwas/
 
