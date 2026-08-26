@@ -7,7 +7,7 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 
 # Feedback
 
-*We would like to hear from you.
+**We would like to hear from you.**
 >https://forms.gle/UPhKTgAr8iSzwn5E6
 
 ## Facilitators:
