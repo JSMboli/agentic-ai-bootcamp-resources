@@ -14,13 +14,13 @@ This revision rebuilds the practical layer around reliable Groq/Ollama diagnosti
 
 >**Dr Julius Sechang Mboli (Organiser and Lead)** - https://www.linkedin.com/in/engr-julius-sechang-mboli/
 
-- >Oyinkansola Onwuchekwa - https://www.linkedin.com/in/oyinkan-chekwas/
-- >Parvin Ghaffarzadeh - https://www.linkedin.com/in/parvin-ghaffarzadeh-afhea-2a3a4211a/
-- >Tapfiq Adeyemo - https://www.linkedin.com/in/taofiq-adeyemo/
-- >Franky George - https://www.linkedin.com/in/franky-george-997846152/
-- >Macaulay Gowan Brown - https://www.linkedin.com/in/macaulaygowan/
-- >Maneeha Rani - https://www.linkedin.com/in/maneeha-rani-a47070150/
-- >Gbenga Samuel Adebiyi - https://www.linkedin.com/in/gbengaadebiyi/
+- Oyinkansola Onwuchekwa - https://www.linkedin.com/in/oyinkan-chekwas/
+- Parvin Ghaffarzadeh - https://www.linkedin.com/in/parvin-ghaffarzadeh-afhea-2a3a4211a/
+- Tapfiq Adeyemo - https://www.linkedin.com/in/taofiq-adeyemo/
+- Franky George - https://www.linkedin.com/in/franky-george-997846152/
+- Macaulay Gowan Brown - https://www.linkedin.com/in/macaulaygowan/
+- Maneeha Rani - https://www.linkedin.com/in/maneeha-rani-a47070150/
+- Gbenga Samuel Adebiyi - https://www.linkedin.com/in/gbengaadebiyi/
 
 
 # Capstone Project Upload
